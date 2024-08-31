@@ -1,0 +1,16 @@
+.txtCenter{
+    text-align: center;
+}
+
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,61,0.6223739495798319) 77%, rgba(0,212,255,1) 100%);
+}
+
+.imageItem{
+    width: 10%;
+    height: 10%;
+}
+a{
+    text-decoration: none;
+}
